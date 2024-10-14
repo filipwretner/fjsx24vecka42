@@ -1,4 +1,5 @@
 # fjsx24vecka42
+
 Grunderna i JavaScript
 
 Tisdag 15 oktober:
