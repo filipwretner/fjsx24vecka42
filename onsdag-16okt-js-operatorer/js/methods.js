@@ -1,5 +1,5 @@
 // <-----------Code Along: Inbyggda Funktioner och Metoder i JavaScript------------>
-
+console.log("Hej Studenter!");
 // Översikt
 // Syfte: Att ge en praktisk introduktion till vanliga inbyggda funktioner och metoder för olika datatyper i JavaScript.
 
