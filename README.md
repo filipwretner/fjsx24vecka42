@@ -120,7 +120,7 @@ Låt användaren fortsätta gissa tills de hittar rätt tal.
 
 ---
 
-Onsdag 16 oktober: Övningar för Inbyggda Funktioner och Metoder per Datatyp:
+Torsdag 17 oktober: Övningar för Inbyggda Funktioner och Metoder per Datatyp:
 
 <--------------String------------>
 
